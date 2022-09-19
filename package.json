@@ -7,6 +7,10 @@
     "dist",
     "src"
   ],
+  "repository": {
+    "url": "https://github.com/ing-ivan-31/iesr-product-card",
+    "type": "git"
+  },
   "engines": {
     "node": ">=10"
   },
@@ -63,5 +67,11 @@
   "dependencies": {
     "@rollup/plugin-replace": "^4.0.0",
     "postcss": "^8.1.0"
-  }
+  },
+  "keywords": [
+    "products",
+    "cards",
+    "ivan",
+    "sanchez"
+  ]
 }
